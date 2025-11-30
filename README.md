@@ -1,5 +1,4 @@
-🇺🇸 README.md (English Version)
-🛡️ Educational Project: Simulated Ransomware & Keylogger in Python
+🛡️ README.md — Educational Project: Simulated Ransomware & Keylogger in Python
 📌 Overview
 
 This repository contains a safe and educational simulation of two common malware types — Ransomware and Keylogger — implemented in Python for academic purposes as part of a Cybersecurity course.
